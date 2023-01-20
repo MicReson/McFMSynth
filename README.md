@@ -1,2 +1,3 @@
 # McFMSynth
- Playing a round FM synth in multichannel
+--------------------------
+Playing with simple FM synthesis in Max 8 MC capabilities.

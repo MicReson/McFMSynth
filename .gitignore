@@ -1,0 +1,9 @@
+# MacOs files
+
+*.DS_Store
+
+# General files
+
+*.wav
+*.mp3
+*.aiff
